@@ -1,6 +1,6 @@
-#🏋️‍♂️ Weekly Gym Routine Plan
+# 🏋️‍♂️ Weekly Gym Routine Plan
 
-Day 1: Chest & Triceps
+## Day 1: Chest & Triceps
 
 Chest:
 
@@ -14,7 +14,8 @@ Chest:
 
 
 
-Triceps: 4. Rope Pushdown – 3 sets × 12 reps
+Triceps: 
+4. Rope Pushdown – 3 sets × 12 reps
 5. Standing Bar Pushdown (EZ Bar or Straight Bar) – 3 sets × 10–12 reps
 6. Dumbbell Overhead Extension – 3 sets × 10 reps
 7. One-Arm Dumbbell Kickback / Extension – 3 sets × 12 reps
@@ -22,7 +23,7 @@ Triceps: 4. Rope Pushdown – 3 sets × 12 reps
 
 ---
 
-Day 2: Back & Biceps
+## Day 2: Back & Biceps
 
 Back:
 
@@ -39,7 +40,8 @@ Back:
 
 
 
-Biceps: 5. Barbell Curl – 3 sets × 10 reps
+Biceps: 
+5. Barbell Curl – 3 sets × 10 reps
 6. Incline Dumbbell Curl (5–7.5 kg) – 3 sets × 10 reps
 7. Hammer Curl (Dumbbell) – 3 sets × 10 reps
 8. Preacher Curl (Machine or Bench) – 3 sets × 10 reps
@@ -47,7 +49,7 @@ Biceps: 5. Barbell Curl – 3 sets × 10 reps
 
 ---
 
-Day 3: Legs & Shoulders
+## Day 3: Legs & Shoulders
 
 Legs:
 
@@ -67,14 +69,15 @@ Legs:
 
 
 
-Shoulders: 6. Dumbbell Shoulder Press – 3 sets × 10 reps
+Shoulders: 
+6. Dumbbell Shoulder Press – 3 sets × 10 reps
 7. Lateral Raises (Dumbbell) – 3 sets × 12 reps
 8. Front Raise (Dumbbell or Plate) – 3 sets × 12 reps
 9. Barbell Upright Row – 3 sets × 10 reps
 
 ---
 
-⚡ Tips:
+### ⚡ Tips:
 
 Warm-up 5–10 min before every session (treadmill or skipping).
 
@@ -89,11 +92,11 @@ Stay hydrated and maintain a protein-rich diet.
 
 ---
 
-##Explanation Of All:
+## Explanation Of All:
 
-🏋️‍♂️ Day 1: Chest & Triceps
+## 🏋️‍♂️ Day 1: Chest & Triceps
 
-🧠 Chest Exercises
+### 🧠 Chest Exercises
 
 1. Butterfly Machine (Pec Deck)
 – Machine pe baith ke dono handle ko saamne laana hai jaise hug kar rahe ho.
@@ -112,11 +115,7 @@ Stay hydrated and maintain a protein-rich diet.
 👉 Target: Chest ka upper part.
 
 
-
-
----
-
-💪 Triceps Exercises
+### 💪 Triceps Exercises
 
 4. Rope Pushdown (Cable Machine)
 – Rope ko dono haath se pakad ke neeche push karo jab tak haath seedhe ho jaayein.
@@ -142,9 +141,9 @@ Stay hydrated and maintain a protein-rich diet.
 
 ---
 
-🏋️‍♂️ Day 2: Back & Biceps
+## 🏋️‍♂️ Day 2: Back & Biceps
 
-🧠 Back Exercises
+### 🧠 Back Exercises
 
 1. Lat Pulldown (Front)
 – Bar ko upar se pakad ke apne seene tak kheecho, phir dhire se upar jaane do.
@@ -167,10 +166,7 @@ Stay hydrated and maintain a protein-rich diet.
 
 
 
-
----
-
-💪 Biceps Exercises
+### 💪 Biceps Exercises
 
 5. Barbell Curl
 – Bar ko dono haath se pakad ke curl karo (upar lao), phir neeche le jao.
@@ -196,9 +192,9 @@ Stay hydrated and maintain a protein-rich diet.
 
 ---
 
-🏋️‍♂️ Day 3: Legs & Shoulders
+## 🏋️‍♂️ Day 3: Legs & Shoulders
 
-🦵 Leg Exercises
+### 🦵 Leg Exercises
 
 1. Squats
 – Pair shoulder width pe rakho, neeche jao jaise chair pe baith rahe ho, phir utho.
@@ -225,10 +221,7 @@ Stay hydrated and maintain a protein-rich diet.
 
 
 
-
----
-
-🦾 Shoulder Exercises
+### 🦾 Shoulder Exercises
 
 6. Dumbbell Shoulder Press
 – Dumbbell ko shoulder se upar push karo, phir neeche lao.
