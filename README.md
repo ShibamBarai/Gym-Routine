@@ -15,9 +15,13 @@ Chest:
 
 
 Triceps: 
+
 4. Rope Pushdown – 3 sets × 12 reps
+
 5. Standing Bar Pushdown (EZ Bar or Straight Bar) – 3 sets × 10–12 reps
+
 6. Dumbbell Overhead Extension – 3 sets × 10 reps
+
 7. One-Arm Dumbbell Kickback / Extension – 3 sets × 12 reps
 
 
@@ -41,9 +45,13 @@ Back:
 
 
 Biceps: 
+
 5. Barbell Curl – 3 sets × 10 reps
+
 6. Incline Dumbbell Curl (5–7.5 kg) – 3 sets × 10 reps
+
 7. Hammer Curl (Dumbbell) – 3 sets × 10 reps
+
 8. Preacher Curl (Machine or Bench) – 3 sets × 10 reps
 
 
@@ -70,9 +78,13 @@ Legs:
 
 
 Shoulders: 
+
 6. Dumbbell Shoulder Press – 3 sets × 10 reps
+
 7. Lateral Raises (Dumbbell) – 3 sets × 12 reps
+
 8. Front Raise (Dumbbell or Plate) – 3 sets × 12 reps
+
 9. Barbell Upright Row – 3 sets × 10 reps
 
 ---
