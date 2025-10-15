@@ -2,7 +2,7 @@
 
 ## Day 1: Chest & Triceps
 
-Chest:
+#### Chest:
 
 1. Butterfly Machine (Pec Deck) – 3 sets × 12 reps
 
@@ -14,7 +14,7 @@ Chest:
 
 
 
-Triceps: 
+#### Triceps: 
 
 4. Rope Pushdown – 3 sets × 12 reps
 
@@ -29,7 +29,7 @@ Triceps:
 
 ## Day 2: Back & Biceps
 
-Back:
+#### Back:
 
 1. Lat Pulldown (Front) – 3 sets × 10–12 reps
 
@@ -44,7 +44,7 @@ Back:
 
 
 
-Biceps: 
+#### Biceps: 
 
 5. Barbell Curl – 3 sets × 10 reps
 
@@ -59,7 +59,7 @@ Biceps:
 
 ## Day 3: Legs & Shoulders
 
-Legs:
+#### Legs:
 
 1. Bodyweight or Barbell Squats – 3 sets × 12 reps
 
@@ -77,7 +77,7 @@ Legs:
 
 
 
-Shoulders: 
+#### Shoulders: 
 
 6. Dumbbell Shoulder Press – 3 sets × 10 reps
 
@@ -89,7 +89,7 @@ Shoulders:
 
 ---
 
-### ⚡ Tips:
+#### ⚡ Tips:
 
 Warm-up 5–10 min before every session (treadmill or skipping).
 
