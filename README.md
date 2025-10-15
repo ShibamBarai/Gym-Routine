@@ -253,3 +253,6 @@ Stay hydrated and maintain a protein-rich diet.
 9. Barbell Upright Row
 – Bar ko neeche se pakad ke apne chin tak kheecho.
 👉 Target: Shoulder aur traps (upar ka area)
+
+
+---
